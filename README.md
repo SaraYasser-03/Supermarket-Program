@@ -1,5 +1,5 @@
 ## Supermarket Porgram
-# The owner would like to store up to 50 items, each item is represented by an ID and a price
+The owner would like to store up to 50 items, each item is represented by an ID and a price
 The program should ask the user if he/she wants to do one of the following tasks:
 1. Enter an item ID and price
 2. Retrieve the price of a specific item
